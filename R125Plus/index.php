@@ -34,7 +34,7 @@
 			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Facelessline Elves 1e33 (1 Dc) - 1e69 (1 Dvg)</a></b></p>
 			<div class="autohide">
 				<p><b>Author</b>: Enstaffahn, Rellikrellik</p>
-				<p><b>Range</b>: 1e33 (1 Dc) 1e33 (1 Dc) - 1e69 (1 Dvg) Gems</p>
+				<p><b>Range</b>: 1e33 (1 Dc) 1e33 (1 Dc) - 1e55 (1 Dvg) Gems</p>
 				<p><b>Requirements:</b> All Masks</p>
 				<p><b>Faction</b>: Elf</p>
 				<p><b>Bloodline</b>: Faceless</p>
@@ -58,31 +58,39 @@
 			</div>
 		</div>
 		<div class="shelementwhole">
-			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Druidline Angels 1e69 (1 Dvg)</a></b></p>
+			<p onclick="shohid($(this));"><b> <a href="#" onclick="return false;">Titanline Druids e55 (10 Spd) - e83 (100 Sxvg)</a></b></p>
 			<div class="autohide">
-				<p><b>Author</b>: Rellikrellik, liminal.shadow</p>
-				<p><b>Range</b>: 1e69 (1 Dvg) Gems+</p>
-				<p><b>Requirement</b>: All Masks, Primal Balance +10</p>
-				<p><b>Faction</b>: Angel</p>
-				<p><b>Bloodline</b>: Druid</p>
-				<p><b>Artifact Set</b>: Elf</p>
+				<p><b>Author</b>: DrJacoby74, wolfsblood, ElJay</p>
+				<p><b>Range</b>: 1e55 (10 Spd) - 1e83 (100 Sxvg) Gems+</p>
+				<p><b>Recommendation</b>: 200% Uniformity, 600% TTC4, Primal Balance +10</p>
+				<p><b>Faction</b>: Druid</p>
+				<p><b>Bloodline</b>: Titan</p>
+				<p><b>Artifact Set</b>: Drow</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C400,C405,C520,D1,D175,D435,D590,D1375,E145,E410,A50,A250,A495,W225,W400,W560">
+					<input type="text" value="S1450,S3200,C300,C340,C1300,D275,D1125,D1375,E260,E400,E1225,A251,A270,A375,A1200,A1500,W350,W400,W1400">
 				</p>
 				<p>
 					<button onclick="myFunction($(this))">Copy Build</button>
-					<input type="text" value="S10,S3200,C25,C340,C405,C520,D1,D175,D435,D590,D1375,E320,E410,A50,A250,A495,W225,W400,W560">
-					<b>1e72 (1 Tvg) Gems+</b>
+					<input type="text" value="S1450,S3200,C300,C340,C1300,D275,D1125,D1375,E260,E400,E1225,A251,A270,A375,A1200,A1500,W350,W1275,W1400">
+					<b>5 or more hours this R</b>
 				</p>
-				<p>S10,S3200,</p>
-				<p>C25,C400,C405,C520,</p>
-				<p>D1,D175,D435,D590,D1375,</p>
-				<p>E145,E410,</p>
-				<p>A50,A250,A495,</p>
-				<p>W225,W400,W560</p>
-				<p><b>Note</b>: Takes estimated time of 15-25 minutes to buy Spiritual Surge 7 and set up the build at first few runs of an R.</p>
-				<p><b>Note</b>: Swap E145 with E320 and C400 with C340 at 1e72 (1 Tvg) Gems or above.</p>
+				<p>
+					<button onclick="myFunction($(this))">Copy Build</button>
+					<input type="text" value="S1450,S3200,C300,C340,C1300,D275,D1125,D1375,E260,E400,E1225,A120,A251,A375,A1200,A1500,W350,W400,W1400">
+					<b>e83+ gems</b>
+				</p>
+				<p>S1450,S3200,</p>
+				<p>C300,C340,C1300,</p>
+				<p>D275,D1125,D1375,</p>
+				<p>E260,E400,E1225,</p>
+				<p>A251,A270,A375,A1200,</p>
+				<p>W350,W400,W1400</p>
+				<p><b>Note</b>: Replace W400 with W1275 if playtime this R is over 5 hours.</p>
+				<p><b>Note</b>: Replace A270 with A120 if you have to push past e83 (1 Sxvg) gems.</p>
+				<p><b>Note</b>: This build also works to unlock Maker Heritage at R125, and Maker UB at R130.</p>
+				<p><b>Note</b>: Benefits greatly from excavations this R and excavation resets.</p>
+				<p><b>Note</b>: Elite factions are required to reach later parts of the gem range.</p>
 			</div>
 		</div>
 	</div>
